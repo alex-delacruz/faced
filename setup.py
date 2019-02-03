@@ -11,7 +11,7 @@ with open('requirements.txt') as f:
 setup(name='faced',
       version='0.1',
       description='Face detection using deep learning',
-      long_description=readme(),
+      long_description="README",
       classifiers=[
         'Development Status :: 3 - Alpha',
         'License :: OSI Approved :: MIT License',
